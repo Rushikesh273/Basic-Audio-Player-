@@ -26,5 +26,5 @@ The project is a Basic Audio Player built using Java AWT and the javax.sound.sam
 - Clone the repository:
   ```bash
   git clone https://github.com/Rushikesh273/Basic-Audio-Player-.git
--Open the project folder in any Java IDE (IntelliJ IDEA / Eclipse / VS Code) .
+-Open the project folder in any Java IDE (IntelliJ IDEA / Eclipse / VS Code)
 -Place the audio (.wav) file in the same folder as Main.java

@@ -4,7 +4,7 @@ import javax.sound.sampled.Clip;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.File;
-import java.io.IOException;
+
 
 public class Main extends Frame implements ActionListener {
 

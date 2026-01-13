@@ -1,4 +1,5 @@
 1.Basic Audio Player (Java)
+
 This is my first Java project and first project overall, created for learning purposes.
 The project is a Basic Audio Player built using Java AWT and the javax.sound.sampled package. It focuses on understanding GUI programming, event handling, and audio playback in Java.
 

@@ -1,2 +1,28 @@
-# Basic-Audio-Player-
-This program explores the concepts of AWT(Abstract Window ToolKit), Error handling and and javax.sound.sampled Package for audio playback.This is an basic Audio Player made for learning and revision purposes . The music files must be saved in the same folder as the  Main.java program to access the music files.
+1.Basic Audio Player (Java)
+This is my first Java project and first project overall, created for learning purposes.
+The project is a Basic Audio Player built using Java AWT and the javax.sound.sampled package. It focuses on understanding GUI programming, event handling, and audio playback in Java.
+
+ 2.Features
+- Simple GUI using AWT
+- Play audio files using javax.sound.sampled
+- Event handling for user interactions
+- Basic error handling
+
+3.Technologies Used
+- Java  
+- AWT (Abstract Window Toolkit)  
+- Java Package -> javax.sound.sampled 
+- Git & GitHub
+- VS code IDE 
+
+4.Learning Resources & Approach
+- Referred to Bro Code’s Java Audio Player tutorial to understand basic audio playback and for source code
+  Link: https://www.youtube.com/watch?v=PmOgruSPy3s&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&index=60
+- Applied AWT Frames and Event Handling concepts learned during coursework
+- Used AI tools like perplexity and chatgpt to understand, modify, and improve parts of the code
+- Learned version control using Git & GitHub
+
+5.How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rushikesh273/Basic-Audio-Player-.git
